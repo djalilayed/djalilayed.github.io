@@ -2,7 +2,6 @@
 title: TryHackMe Billing Write-Up Walk Through
 date: 2025-03-09 08:00:00 +0200
 categories: [TryHackMe, CTF, TryHackMe Write Up]
-thumbnail: "assets/img/tryhackme-billings-room.png"
 tags: [tryhackme,ctf, magnusbilling, ctf, fail2ban,unauthenticated Remote Command Execution]
 description: "Exploit CVE-2023-30258 on TryHackMe's Billing room and escalate to root with fail2ban-client."
 comments: false
