@@ -1,5 +1,5 @@
 ---
-title: TryHackMe Billing Write-Up Walk Through
+title: TryHackMe Robots Write-Up Walk Through
 date: 2025-03-17 08:00:00 +0200
 categories: [TryHackMe, CTF, TryHackMe Write Up]
 tags: [tryhackme,ctf, robots, ctf, apache2,SSRF, curl]
