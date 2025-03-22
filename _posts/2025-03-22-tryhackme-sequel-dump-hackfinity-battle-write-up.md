@@ -19,8 +19,6 @@ A wave of suspicious web requests has bee detected hammering our database-driven
 
 ### Enumeration Phase
 
-The journey begins with the login page (`http://robots.thm/login.php`). A quick test revealed the username field reflected input unsanitized. Injecting a simple XSS payload:
-
 In this video, we tackle the 'Sequel Dump' room from the TryHackMe Hackfinity Battle CTF. We'll analyze a PCAP file to uncover a blind SQL injection attack using sqlmap. First, we'll walk through the manual process of reconstructing the attacker's requests and extracting the stolen data, character by character. Then, we'll show you how to automate this process with a Python script, saving time and effort. Learn how to identify and exploit blind SQL injection vulnerabilities and recover valuable data. Let's get started!"
 
 <img src="tryhackme-sequel-dump-room-wireshark-capture.png"  alt="TryHackMe Sequel Dump Wireshark capture" >
