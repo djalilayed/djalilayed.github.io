@@ -1,7 +1,0 @@
-https://chirpy.cotes.page/posts/getting-started/
-
-bundle exec jekyll s
-
-git add .
-git commit -m "robots new room"
-git push origin main
