@@ -1,7 +1,7 @@
 ---
 title: TryHackMe Industrial Intrusion CTF Walkthroughs  Full YouTube Video Guides for Every Room
 date: 2025-07-01 08:00:00 +0200
-categories: [TryHackMe, CTF,ryHackMe Write Up, Industrial Intrusion]
+categories: [TryHackMe, CTF,TryHackMe Write Up, Industrial Intrusion]
 tags: [tryhackme,ctf,Cybersecurity]
 description: "Industrial Intrusion CTF, Join an action-packed Capture The Flag event where you'll team up to solve thrilling puzzles, uncover secrets, and dive into an exciting storyline!  "
 comments: false
@@ -17,7 +17,7 @@ image:
 
 **[TryHackMe Industrial Intrusion CTF link]( https://tryhackme.com/room/industrial-intrusion )**
 
-*The Virelia Water Control Facility is back online after a devastating malware attack, but something’s not right. Flickering sensors, erratic valve pressures, and untraceable alerts hint at a hidden threat: a covert second-stage implant left by a cunning attacker. As a red team specialist for Black Echo, your mission in the TryHackMe Industrial Intrusion CTF is to infiltrate the compromised industrial control systems (ICS), outsmart a reactive adversary, and stop a catastrophic kill-switch. This action-packed Capture The Flag event is a thrilling blend of puzzles, hacking, and real-world ICS scenarios.I’m creating detailed YouTube video walkthroughs for every room in this CTF, and my playlist is your go-to resource for conquering these challenges. Whether you’re stuck on badge authentication bypasses, Node-RED exploitation, or AES-CBC decryption, my videos break down each step clearly. In this article, I’ll list all available walkthroughs from my YouTube playlist [watch here](https://www.youtube.com/playlist?list=PLrY_AbzZGqt_fERswtC2yKP9OP-DzlcGw), *
+*The Virelia Water Control Facility is back online after a devastating malware attack, but something’s not right. Flickering sensors, erratic valve pressures, and untraceable alerts hint at a hidden threat: a covert second-stage implant left by a cunning attacker. As a red team specialist for Black Echo, your mission in the TryHackMe Industrial Intrusion CTF is to infiltrate the compromised industrial control systems (ICS), outsmart a reactive adversary, and stop a catastrophic kill-switch. This action-packed Capture The Flag event is a thrilling blend of puzzles, hacking, and real-world ICS scenarios.I’m creating detailed YouTube video walkthroughs for every room in this CTF, and my playlist is your go-to resource for conquering these challenges. Whether you’re stuck on badge authentication bypasses, Node-RED exploitation, or AES-CBC decryption, my videos break down each step clearly. In this article, I’ll list all available walkthroughs from my YouTube playlist [watch here](https://www.youtube.com/playlist?list=PLrY_AbzZGqt_fERswtC2yKP9OP-DzlcGw),*
 
 *with more videos being added as I complete them. Subscribe to stay updated and let’s hack the Virelia facility together!*
 
@@ -53,7 +53,7 @@ Be sure to check all the open ports, you never know which one might be your way 
 
 **Overview:**  A forgotten HMI node deep in Virelia’s wastewater control loop still runs an outdated instance, forked from an old Mango M2M stack. 
 
-**YouTube Walkthrough:**  *[Watch Task 3 Walkthrough](https://youtu.be/41qogM2ajKo)*
+**YouTube Walkthrough:**  *[Watch Task 10 Walkthrough](https://youtu.be/41qogM2ajKo)*
 
 **Key Skills:** Enumeration, RCE
 
@@ -63,7 +63,7 @@ Be sure to check all the open ports, you never know which one might be your way 
 
 As a Black Echo red-team specialist, you must penetrate the compromised portal, unravel its hidden persistence mechanism, and neutralise the backdoor before it can be reactivated.
 
-**YouTube Walkthrough:**  *[Watch Task 3 Walkthrough](#)*
+**YouTube Walkthrough:**  *[Watch Task 11 Walkthrough](#)*
 
 **Key Skills:** Enumeration, LFI, YAML
 
@@ -71,7 +71,7 @@ As a Black Echo red-team specialist, you must penetrate the compromised portal, 
 
 **Overview:**   You get an email with attachment, Microsoft docm file. with Macro enable. you need to analyses the VBA code inside the macro to get the flag.
 
-**YouTube Walkthrough:**  *[Watch Task 3 Walkthrough](https://youtu.be/uGhuElHm1Ys)*
+**YouTube Walkthrough:**  *[Watch Task 13 Walkthrough](https://youtu.be/uGhuElHm1Ys)*
 
 **Key Skills:** Enumeration, VBA, Macro
 
