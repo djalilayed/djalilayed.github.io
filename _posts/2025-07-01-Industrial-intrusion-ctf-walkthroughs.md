@@ -49,6 +49,30 @@ Be sure to check all the open ports, you never know which one might be your way 
 
 **Key Skills:** Enumeration
 
+## Task 5: OSINT 1
+
+**Overview:**  Hexline, we need your help investigating the phishing attack from 3 months ago. We believe the threat actor managed to hijack our domain virelia-water.it.com and used it to host some of their infrastructure at the time. Use your OSINT skills to find information about the infrastructure they used during their campaign.
+
+**YouTube Walkthrough:**  *[Watch Task 5 Walkthrough](https://youtu.be/EbC7GmWTtko)*
+
+**Key Skills:** OSINT
+
+## Task 6: OSINT 2
+
+**Overview:**  Great work on uncovering that suspicious subdomain, Hexline. However, your work here isn’t done yet, we believe there is more.
+
+**YouTube Walkthrough:**  *[Watch Task 6 Walkthrough](https://youtu.be/USRwXq41C3g)*
+
+**Key Skills:** OSINT
+
+## Task 7: OSINT 3
+
+**Overview:**  After the initial breach, a single OT-Alert appeared in Virelia’s monthly digest—an otherwise unremarkable maintenance notice, mysteriously signed with PGP. Corporate auditors quietly removed the report days later, fearing it might be malicious. Your mission is to uncover more information about this mysterious signed PGP maintenance message.
+
+**YouTube Walkthrough:**  *[Watch Task 7 Walkthrough](https://youtu.be/BMEyTfmEXAk)*
+
+**Key Skills:** OSINT
+
 ## Task 10: Brr v1
 
 **Overview:**  A forgotten HMI node deep in Virelia’s wastewater control loop still runs an outdated instance, forked from an old Mango M2M stack. 
@@ -73,7 +97,27 @@ As a Black Echo red-team specialist, you must penetrate the compromised portal, 
 
 **YouTube Walkthrough:**  *[Watch Task 13 Walkthrough](https://youtu.be/uGhuElHm1Ys)*
 
-**Key Skills:** Enumeration, VBA, Macro
+## Task 14: Backdoored Bus
+
+**Overview:**   You get access to container image, and your task to find the backdoor.
+
+**YouTube Walkthrough:**  *[Watch Task 14 Walkthrough](https://youtu.be/a3vEOOaPqDw)*
+
+## Task 19: No Salt, No Shame
+
+**Overview:**   To “secure” the maintenance logs, Virelia’s gateway vendor encrypted every critical entry with AES-CBC—using the plant’s code name as the passphrase and a fixed, all-zero IV. Of course, without any salt or integrity checks, it’s only obscurity, not true security. Somewhere in those encrypted records lies the actual shutdown command.
+
+**YouTube Walkthrough:**  *[Watch Task 19 Walkthrough](https://youtu.be/5-U9fT4wm-s)*
+
+**Key Skills:** AES-CBC, Encryption, Decryption
+
+## Task 20: Echoed Streams
+
+**Overview:**   Three months after the Virelia Water Control Facility was breached, OT traffic is finally back online—supposedly “fully remediated.” During a routine audit, Black Echo’s red team intercepted two back‐to‐back telemetry packets between a pump controller and the SCADA server. Curiously, both packets were encrypted under AES‐GCM using the same 16-byte nonce (number used once). The first packet is just regular facility telemetry; the second contains a hidden sabotage command with the kill-switch flag. Your job is to recover that flag and stop the attack. how to exploit one of the most dangerous cryptographic vulnerabilities - nonce reuse in AES-GCM encryption
+
+**YouTube Walkthrough:**  *[Watch Task 20 Walkthrough](https://youtu.be/qm_mpEskURo)*
+
+**Key Skills:** AES-GCM, Encryption, Decryption
 
 ## Task 21: CRC Me If You Can
 
@@ -82,6 +126,22 @@ As a Black Echo red-team specialist, you must penetrate the compromised portal, 
 **YouTube Walkthrough:**  *[Watch Task 21 Walkthrough](https://youtu.be/-zylGSCC6cU)*
 
 **Key Skills:** Python, Decoding, Packets
+
+## Task 24: Auth
+
+**Overview:**   ZeroTrace intercepts a stripped-down authentication module running on a remote industrial gateway. Assembly scrolls across glowing monitors as she unpacks the logic behind the plant’s digital checkpoint
+
+**YouTube Walkthrough:**  *[Watch Task 24 Walkthrough](https://youtu.be/BpfgPhwg5h4)*
+
+**Key Skills:** Decompiler, Ghidra, Binary
+
+## Task 25: Access Granted
+
+**Overview:**   ZeroTrace intercepts a suspicious HMI login module on the plant floor. Reverse the binary logic to reveal the access key and slip past digital defences.
+
+**YouTube Walkthrough:**  *[Watch Task 25 Walkthrough](https://youtu.be/SmXtt9X6DWQ)*
+
+**Key Skills:** Ghidra, GDB, Binary
 
 ## Top Tips for Mastering the Industrial Intrusion CTF
 
