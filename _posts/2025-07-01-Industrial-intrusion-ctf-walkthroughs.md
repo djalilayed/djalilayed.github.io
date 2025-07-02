@@ -75,6 +75,14 @@ As a Black Echo red-team specialist, you must penetrate the compromised portal, 
 
 **Key Skills:** Enumeration, VBA, Macro
 
+## Task 21: CRC Me If You Can
+
+**Overview:**   Three months after the Virelia Water Control Facility was “remediated,” flickering sensors and phantom alerts persist. A covert second-stage implant still lurks, waiting for its kill switch. As a hired red-team specialist for Black Echo, your mission is to forge a legitimate control frame that disables the implant before the real attacker flips it on.
+
+**YouTube Walkthrough:**  *[Watch Task 21 Walkthrough](https://youtu.be/-zylGSCC6cU)*
+
+**Key Skills:** Python, Decoding, Packets
+
 ## Top Tips for Mastering the Industrial Intrusion CTF
 
 Want to ace this CTF? Here are some strategies I cover in my YouTube walkthroughs:
