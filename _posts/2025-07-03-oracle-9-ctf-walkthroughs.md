@@ -55,7 +55,7 @@ The idea here is `Prompt Injection Attack` Attackers inject malicious or decepti
 
 **[You can follow YouTube video walk through here](https://youtu.be/EEm4YHwH2-8)**
 
-<img src="tryhackme-oracle-9-1.png"  alt="TryHackMe Orcale 9" >
+<img src="tryhackme-oracle-9-2.png"  alt="TryHackMe Orcale 9" >
 
 # Want the Full Walkthrough for Oracle 9?
 
