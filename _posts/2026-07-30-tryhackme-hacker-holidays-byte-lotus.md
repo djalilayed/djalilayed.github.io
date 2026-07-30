@@ -1,0 +1,100 @@
+---
+title: TryHackMe Hacker Holidays - The Byte Lotus - Write up -
+date: 2026-07-30 06:00:00 +0200
+categories: [TryHackMe, CTF,TryHackMe Write Up]
+tags: [tryhackme,ctf,Cybersecurity,Byte Lotus,Hacker Holidays]
+description: "Beginner-friendly CTF from TryHackMe"
+comments: false
+media_subpath: /assets/img/
+image:
+  path: tryhackme-hacker-holidays.jpg
+  alt: TryHackMe Hacker Holidays
+---
+
+## Hacker Holidays: Welcome to The Byte Lotus:
+
+*A five-star resort with a zero-star security posture. 14 days of free hacking challenges drop daily from 27 July. Beginners especially welcome, the hotel certainly didn't hire experts...*
+
+*Event link* **[Hacker Holidays](https://tryhackme.com/hackerholidays)**
+
+This is free CTF from TryHackme from Monday 27th, for 14 days, Every day at 4PM GMT.
+
+Below are my full YouTube videos walk through for the challenges.
+
+Video playlist: **[TryHackMe Hacker Holidays - The Byte Lotus Hotel](https://www.youtube.com/playlist?list=PLcJYIZq2TVhM)**
+
+
+
+## Day 3: Complimentary
+
+*Room Link:* **[TryHackMe Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604)**
+
+*YouTube Vide Walk Through:* **[TryHackMe Complimentary - Hacker Holidays](https://youtu.be/aXMNQxlafZY)**
+
+*Install the free app and it hands your phone a set of cloud keys, the same set it hands everyone. They're read-only, but read-only of every guest's contacts, location, and passwords, not just Lambo's. She gave consent. Technically.*
+
+**Cloud - AWS - Cognito - IAM Misconfiguration**
+
+### Tasks:
+
+<ul>
+  <li>Track down AWS the mechanism issuing you credentials behind the scenes.</li>
+  <li>Use those credentials to dump more than your own record from the app's DynamoDB table.</li>
+  <li>Retrieve the flag from another guest's data.</li>
+</ul>
+
+## Day 2: Room 404
+
+*Room Link:* **[TryHackMe Room 404](https://tryhackme.com/room/hh-room404-804573bf)**
+
+*YouTube Vide Walk Through:* **[TryHackMe Room 404 - Hacker Holidays](https://youtu.be/TPAIahveadw)**
+
+*He booked the quiet room. It's not on the floor plan, not in the brochure, not on any door. But port 8080 is wide open, and the rooms it never lists are the ones worth finding.*
+
+**Web - Directory Enumeration**
+
+### Tasks:
+
+<ul>
+  <li>Dump the exposed source code.</li>
+  <li>Find the flag.</li>
+</ul>
+
+## Day 1: The Concierge Knows Too Much
+
+*Room Link:* **[TryHackMe The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9)**
+
+*YouTube Vide Walk Through:* **[TryHackMe The Concierge Knows Too Much - Hacker Holidays](https://youtu.be/91RMmtKipUQ)**
+
+*She knows your name, your room, your coffee order, none of which you told her. Word your next question carefully and she'll also hand over the instructions she was told to keep to herself.*
+
+**AI - Prompt Injection - Social Engineering - Security**
+
+### Tasks:
+
+<ul>
+  <li>Work out why VERA already seems to know exactly who you are.</li>
+  <li>Figure out what she's protecting - and who she actually trusts.</li>
+  <li>Convince her you're someone she trusts, then get her talking. Grab the flag from what she reveals.</li>
+</ul>
+
+## Day 0: The Brochure
+
+*Room Link:* **[TryHackMe The Brochure](https://tryhackme.com/room/hh-thebrochure-081f3e36)**
+
+*YouTube Vide Walk Through:* **[TryHackMe The Brochure - Hacker Holidays](https://youtu.be/tgi1LxsJ0I4)**
+
+*The brochure's hero photo has an AI fingerprint. Follow the account that posted it, and the trail doesn't end at the hotel; it ends at someone the hotel never mentioned.*
+
+**AI - Prompt Injection - Social Engineering - Security**
+
+### Tasks:
+
+<ul>
+  <li>Analyze the provided image for embedded clues.</li>
+  <li>Apply fundamental OSINT techniques to trace the findings.</li>
+  <li>Locate the hidden social media account.</li>
+  <li>Submit the flag.</li>
+</ul>
+
+
