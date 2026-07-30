@@ -24,6 +24,23 @@ Below are my full YouTube videos walk through for the challenges.
 Video playlist: **[TryHackMe Hacker Holidays - The Byte Lotus Hotel](https://www.youtube.com/playlist?list=PLcJYIZq2TVhM)**
 
 
+## Day 4: Packed Light
+
+*Room Link:* **[TryHackMe Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c)**
+
+*YouTube Vide Walk Through:* **[TryHackMe Packed Light - Hacker Holidays](https://youtu.be/5ld7tvq_W2Y)**
+
+*Tiny packets. Odd hours. Suspiciously regular. Someone's smuggling out the data equivalent of a hotel towel every night, folded neatly inside traffic that looks ordinary until you decode it.*
+
+**Cloud - AWS - Cognito - IAM Misconfiguration**
+
+### Tasks:
+
+<ul>
+  <li>Analyze the provided capture for a covert communication channel.</li>
+  <li>Identify where the exfiltrated data is being hidden and reassemble it</li>
+  <li>Decode the recovered data and submit the flag</li>
+</ul>
 
 ## Day 3: Complimentary
 
