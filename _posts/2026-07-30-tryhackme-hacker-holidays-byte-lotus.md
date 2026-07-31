@@ -23,6 +23,22 @@ Below are my full YouTube videos walk through for the challenges.
 
 Video playlist: **[TryHackMe Hacker Holidays - The Byte Lotus Hotel](https://www.youtube.com/playlist?list=PLcJYIZq2TVhM)**
 
+## Day 5: Packed Light
+
+*Room Link:* **[TryHackMe Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7)**
+
+*YouTube Vide Walk Through:* **[TryHackMe Beach Bar - Hacker Holidays](https://youtu.be/GMBbSoBAVEw)**
+
+*At the Beach Bar, even shell access is complimentary. The jukebox takes requests. Any kind.*
+
+**Web - Boot2root**
+
+### Tasks:
+
+<ul>
+  <li>Find the user flag</li>
+  <li>Find the root flag</li>
+</ul>
 
 ## Day 4: Packed Light
 
@@ -32,7 +48,7 @@ Video playlist: **[TryHackMe Hacker Holidays - The Byte Lotus Hotel](https://www
 
 *Tiny packets. Odd hours. Suspiciously regular. Someone's smuggling out the data equivalent of a hotel towel every night, folded neatly inside traffic that looks ordinary until you decode it.*
 
-**Cloud - AWS - Cognito - IAM Misconfiguration**
+**Network Forensics - PCAP Analysis - Cryptography**
 
 ### Tasks:
 
