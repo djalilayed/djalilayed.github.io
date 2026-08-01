@@ -23,6 +23,25 @@ Below are my full YouTube videos walk through for the challenges.
 
 Video playlist: **[TryHackMe Hacker Holidays - The Byte Lotus Hotel](https://www.youtube.com/playlist?list=PLcJYIZq2TVhM)**
 
+## Day 6: Overheard at Breakfast
+
+*Room Link:* **[TryHackMe Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c)**
+
+*YouTube Vide Walk Through:* **[TryHackMe Overheard at Breakfast - Hacker Holidays](https://youtu.be/iy70uGRU_sQ)**
+
+*Two strangers. One conversation. One profile they never meant to reveal.*
+
+**OSINT - Social Media - Hashing**
+
+### Tasks:
+
+<ul>
+  <li>Analyze the provided conversation for identifying details</li>
+  <li>Extract the relevant clues</li>
+  <li>Locate the hidden account</li>
+  <li>Submit the flag</li>
+</ul>
+
 ## Day 5: Beach Bar
 
 *Room Link:* **[TryHackMe Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7)**
