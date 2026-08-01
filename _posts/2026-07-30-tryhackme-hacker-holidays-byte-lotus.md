@@ -23,7 +23,7 @@ Below are my full YouTube videos walk through for the challenges.
 
 Video playlist: **[TryHackMe Hacker Holidays - The Byte Lotus Hotel](https://www.youtube.com/playlist?list=PLcJYIZq2TVhM)**
 
-## Day 5: Packed Light
+## Day 5: Beach Bar
 
 *Room Link:* **[TryHackMe Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7)**
 
