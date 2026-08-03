@@ -24,6 +24,24 @@ Below are my full YouTube videos walk through for the challenges.
 Video playlist: **[TryHackMe Hacker Holidays - The Byte Lotus Hotel](https://www.youtube.com/playlist?list=PLcJYIZq2TVhM)**
 
 
+## Day 8: Towel on the Sunbed
+
+*Room Link:* **[TryHackMe Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709)**
+
+*YouTube Vide Walk Through:* **[TryHackMe Towel on the Sunbed - Hacker Holidays](https://youtu.be/iwIhpo9MLVA)**
+
+*Ponzi set his towel down for one 24-hour reward claim. He came back to find the sunbed had been "claimed" three times over while he wasn't looking.*
+
+**Web - Boot2root**
+
+### Tasks:
+
+<ul>
+  <li>Create a guest account and explore Ponzi's daily reward mechanism.</li>
+  <li>Work out exactly what's standing between you and Whale Vault status.</li>
+  <li>Find your way past it and retrieve the flag from the vault.</li>  
+</ul>
+
 ## Day 7: Do Not Disturb
 
 *Room Link:* **[TryHackMe Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644)**
