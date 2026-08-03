@@ -23,6 +23,26 @@ Below are my full YouTube videos walk through for the challenges.
 
 Video playlist: **[TryHackMe Hacker Holidays - The Byte Lotus Hotel](https://www.youtube.com/playlist?list=PLcJYIZq2TVhM)**
 
+
+## Day 7: Do Not Disturb
+
+*Room Link:* **[TryHackMe Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644)**
+
+*YouTube Vide Walk Through:* **[TryHackMe Do Not Disturb - Hacker Holidays](https://youtu.be/ruWFbw3ALT0)**
+
+*Sign's on the door. Room's active. You have access you were never given, and so does he.*
+
+**Web - Boot2root**
+
+### Tasks:
+
+<ul>
+  <li>Find the user flag</li>
+  <li>Find the root flag</li>
+</ul>
+
+
+
 ## Day 6: Overheard at Breakfast
 
 *Room Link:* **[TryHackMe Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c)**
