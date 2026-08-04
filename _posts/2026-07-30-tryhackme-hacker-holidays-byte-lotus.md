@@ -23,6 +23,23 @@ Below are my full YouTube videos walk through for the challenges.
 
 Video playlist: **[TryHackMe Hacker Holidays - The Byte Lotus Hotel](https://www.youtube.com/playlist?list=PLcJYIZq2TVhM)**
 
+## Day 9: CryptoCabana
+
+*Room Link:* **[TryHackMe CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95)**
+
+*YouTube Vide Walk Through:* **[TryHackMe CryptoCabana - Hacker Holidays](https://youtu.be/-6vUxb-t4Rg)**
+
+*He never signed the transfer. The place he stashed his secret wasn't as sealed as promised.*
+
+**Cloud - Azure - Storage - Key Vault**
+
+### Tasks:
+
+<ul>
+  <li>Pull apart what the kiosk hands out for free before you've even clicked anything.</li>
+  <li>Follow that trust somewhere the kiosk's own page never once points you.</li>
+  <li>Somewhere in there is a second, more valuable set of keys — and a vault that won't give up the real values on the first ask.</li>  
+</ul>
 
 ## Day 8: Towel on the Sunbed
 
