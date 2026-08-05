@@ -23,6 +23,21 @@ Below are my full YouTube videos walk through for the challenges.
 
 Video playlist: **[TryHackMe Hacker Holidays - The Byte Lotus Hotel](https://www.youtube.com/playlist?list=PLcJYIZq2TVhM)**
 
+
+## Day 10: The Hollow Shell
+
+*Room Link:* **[TryHackMe The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac)**
+
+*YouTube Vide Walk Through:* **[TryHackMe The Hollow Shell - Hacker Holidays](https://youtu.be/HOrSlmaXGJo)**
+
+*You find it on the beach: pretty, ordinary, the kind of thing nobody thinks to check. Slip something inside and hold it to your ear.*
+
+### Tasks:
+
+<ul>
+  <li>Find the flag</li>  
+</ul>
+
 ## Day 9: CryptoCabana
 
 *Room Link:* **[TryHackMe CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95)**
