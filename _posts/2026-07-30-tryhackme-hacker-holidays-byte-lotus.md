@@ -23,6 +23,22 @@ Below are my full YouTube videos walk through for the challenges.
 
 Video playlist: **[TryHackMe Hacker Holidays - The Byte Lotus Hotel](https://www.youtube.com/playlist?list=PLcJYIZq2TVhM)**
 
+## Day 11: Infinity Pool
+
+*Room Link:* **[TryHackMe Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af)**
+
+*YouTube Vide Walk Through:* **[TryHackMe Infinity Pool - Hacker Holidays](https://youtu.be/Fot5PhwLG3Y)**
+
+*No visible edge. You trace the network to the horizon and find three systems nobody told you about on the other side.*
+
+**Web - Boot2root**
+
+### Tasks:
+
+<ul>
+  <li>Find the user flag</li>  
+  <li>Find the root flag</li>
+</ul>
 
 ## Day 10: The Hollow Shell
 
