@@ -23,6 +23,25 @@ Below are my full YouTube videos walk through for the challenges.
 
 Video playlist: **[TryHackMe Hacker Holidays - The Byte Lotus Hotel](https://www.youtube.com/playlist?list=PLcJYIZq2TVhM)**
 
+
+## Day 12: After Hours
+
+*Room Link:* **[TryHackMe After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0)**
+
+*YouTube Vide Walk Through:* **[TryHackMe After Hours - Hacker Holidays](https://youtu.be/Fot5PhwLG3Y)**
+
+*Bar closed. Guests asleep. Something on the network just clocked in for a shift off the rotation.*
+
+**Forensics - Windows - Persistence - Reverse Engineering**
+
+### Tasks:
+
+<ul>
+  <li>Parse the provided system artifacts for hidden custom configuration data</li>  
+  <li>Locate the malicious class and extract its embedded payload</li>
+  <li>Decode the payload and submit the recovered flag</li>
+</ul>
+
 ## Day 11: Infinity Pool
 
 *Room Link:* **[TryHackMe Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af)**
